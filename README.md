@@ -32,12 +32,14 @@ Here are some ideas to get you started:
 
 <br>
 
-- 2.5+ years of full stack software development experience in an agile startup environment developing websites in FERN and MERN stack; deploying websites on popular 	AWS EC2, AWS Amplify, GCP, and Firebase hosting with CI/CD
+- 2.5+ years of full stack development experience in an agile startup environment developing websites in FERN and MERN stack; deploying websites on popular 	AWS EC2, AWS Amplify, GCP, and Firebase hosting with CI/CD
+- Experience with web/mobile development, architecture designing and deployment.
+- Experience with Jest, React Testing Library, Cypress and JUnit for testing web/mobile apps.
 - Led re-architecture of key platforms that serves 10,000 requests/month, reducing integration time to just 30 min.
 - Implemented testing of websites and mobile apps using JEST, react-testing-library, Cypress and JUnit for smooth UX and deployed 10+ versions of mobile apps serving 	60K users in real-time with enhanced UI and UX.
 - Currently pursuing my master's at [University of Ottawa](https://www.uottawa.ca/en) in [Systems Science and Engineering](https://catalogue.uottawa.ca/en/graduate/master-systems-science-engineering/)
 - Personal website [link](https://jaik-portfolio.netlify.app)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1asgEy3hxVM4BfQTIn4l6wAD-Bez_7nMU03C_5QjtIEg/edit#)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1X6jyaIFz-AvcNfWAI8HdSP9zio-wYpPxs-JsUx780co/edit?usp=sharing)
 
 <br><br>
 
