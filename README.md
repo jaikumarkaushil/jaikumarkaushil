@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <br>
 
-- 2.5+ years of full stack development experience in an agile startup environment developing websites in FERN and MERN stack; deploying websites on popular 	AWS EC2, AWS Amplify, GCP, and Firebase hosting with CI/CD
-- Experience with web/mobile development, architecture designing and deployment.
-- Experience with Jest, React Testing Library, Cypress and JUnit for testing web/mobile apps.
-- Led re-architecture of key platforms that serves 10,000 requests/month, reducing integration time to just 30 min.
-- Implemented testing of websites and mobile apps using JEST, react-testing-library, Cypress and JUnit for smooth UX and deployed 10+ versions of mobile apps serving 	60K users in real-time with enhanced UI and UX.
+- Full stack developer with 3+ years of experience, specializing in FERN stack development, Cloud Functions, AWS Amplify, GCP, Firebase integration, and UI mockup design in Figma and Firebase and Azure hosting (CI/CD Pipeline - Azure DevOps).
+- Experience working with CSS frameworks like Material, Bootstrap and Tailwind CSS
+- Experience developing and refactoring backend APIs (REST and GraphQL) written in Firebase cloud functions and NodeJS.
+- Led re-architecture of key platforms (CMS), reducing integration and operation time to just 30 min.
+- Implemented testing of websites and mobile apps using JEST, react-testing-library, Cypress and JUnit for smooth UX
 - Currently pursuing my master's at [University of Ottawa](https://www.uottawa.ca/en) in [Systems Science and Engineering](https://catalogue.uottawa.ca/en/graduate/master-systems-science-engineering/)
-- Personal website [link](https://jaik-portfolio.netlify.app)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1X6jyaIFz-AvcNfWAI8HdSP9zio-wYpPxs-JsUx780co/edit?usp=sharing)
+- Personal website [link](https://jai-kaushil.tech)
+- I’m currently open for a new job opportunity in the domain of software development, this is [my resume](https://docs.google.com/document/d/1X6jyaIFz-AvcNfWAI8HdSP9zio-wYpPxs-JsUx780co/edit?usp=sharing)
 
 <br><br>
 
@@ -63,12 +63,23 @@ Here are some ideas to get you started:
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
     
 <br>
 
