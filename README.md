@@ -15,20 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b>Hi , I'm Jai Kumar Kaushil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>I'm Jai Kumar Kaushil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;I'm+self-taught+Full-Stack+Developer,;Technical+Enthusiastic;Highly Motivated Developer;Active+Learner/Researcher,; Love+to+learn+and+adapt+dynamically"></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
-- [Dog Lovers Website](https://dogs-community.azurewebsites.net)  -> 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Github Projects and Links </b>
+- Dog Lovers Website [#Website Link](https://dogs-community.azurewebsites.net) [#Github Code](https://github.com/jaikumarkaushil/-dog_community_project) -
 	- This Django-based project with MySQL database is hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, 
        enabling rapid and reliable deployments while ensuring high-quality code delivery.
 	- It's a Multipage comprehensive website where users can adopt a dog or report any dog, schedule meetups, and see a variety of dog breeds.
+ - JCapture [#Website Link](https://photo-sharing.azurewebsites.net/) [#Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-)-
+ 	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
+  	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
+   	- This project is also hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, enabling rapid and reliable deployments while ensuring high-quality code delivery.
+- Virtulab Landing Page [#Website Link](https://virtulab-jk.netlify.app/home) [#Github Code](https://github.com/jaikumarkaushil/virtulab-webpage-demo) -
+	- Developed and deployed a single-page responsive, user-friendly website.
+ 	- Implemented robot animation in the carousel banner and well-structured UI sections, resulting in a visually appealing website that captures the attention of visitors.
+- Prarukh (A multicuisine restaurant) [#Website Link](https://prarukh-jai.netlify.app/home) [#Github Code](https://github.com/jaikumarkaushil/React-Restaurant-Application---Prarukh)
+  	- The idea of this website is to offer features for promoting the restaurant through an online platform.
+   	- It allows the users to add comments to a particular dish from the menu, give feedback and reserve a table or order food online using the forms.
+    - It has additional features like form validations, animations and dish filtering based on trending, popular dishes, different cuisines and categories for a better user experience. 
+ 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 ## <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width = 80px> **A short glimpse about me**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img align="right" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width = 250px>
 
 - 3+ years of work experience, specializing in FERN(Firebase) & MERN(MongoDB) Fullstack development.
@@ -40,12 +53,12 @@ Here are some ideas to get you started:
   (Firebase serverless backend).
 - Led re-architecture of key platforms (CMS), reducing integration and operation time to just an hour.
 - Currently pursuing my master's at [University of Ottawa](https://www.uottawa.ca/en) in [Systems Science and Engineering](https://catalogue.uottawa.ca/en/graduate/master-systems-science-engineering/)
-- Personal website [link](https://jai-kaushil.tech)
+- Personal Portfolio website [link](https://jai-kaushil.tech)
 - I’m currently open for a new job opportunity in the domain of software development, this is [my resume](https://docs.google.com/document/d/1X6jyaIFz-AvcNfWAI8HdSP9zio-wYpPxs-JsUx780co/edit?usp=sharing)
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
