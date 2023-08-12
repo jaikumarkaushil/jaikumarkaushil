@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 - Experience developing scalable backend APIs (RESTful and GraphQL) using NodeJS and Express.
 - Designed and decoupled backend logic, transitioning from client-end operations to backend APIs for mobile applications using Google Cloud functions 
   (Firebase serverless backend).
+- Built Analytics dashboard in Looker studio from BigQuery streamed data coming from Firebase Events Analytics.
 - Led re-architecture of key platforms (CMS), reducing integration and operation time to just an hour.
 - Currently pursuing my master's at [University of Ottawa](https://www.uottawa.ca/en) in [Systems Science and Engineering](https://catalogue.uottawa.ca/en/graduate/master-systems-science-engineering/)
 - Personal Portfolio website [link](https://jai-kaushil.tech)
