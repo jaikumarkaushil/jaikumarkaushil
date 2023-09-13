@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Github Projects and Links </b>
-- [Dog Lovers Website](https://dogs-community.azurewebsites.net) ([Github Code](https://github.com/jaikumarkaushil/-dog_community_project)) -
+- [Dog Lovers Website](https://dogs-community-jai.azurewebsites.net) ([Github Code](https://github.com/jaikumarkaushil/-dog_community_project)) -
 	- This Django-based project with MySQL database is hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, 
        enabling rapid and reliable deployments while ensuring high-quality code delivery.
 	- It's a Multipage comprehensive website where users can adopt a dog or report any dog, schedule meetups, and see a variety of dog breeds.
  - [JCapture](https://photo-sharing.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-))-
+ 	- This page might load in some more time due to usage of free Azure app service plan (Node.js + MongoDB) for the backend. 
  	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
   	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
    	- This project is also hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, enabling rapid and reliable deployments while ensuring high-quality code delivery.
