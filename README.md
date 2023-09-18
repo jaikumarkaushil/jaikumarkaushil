@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
   	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
    	- This project is also hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, enabling rapid and reliable deployments while ensuring high-quality code delivery.
-- [ICanbewell]([https://canbewell-2022-prod.web.app/]) -
+- [ICanbewell](https://canbewell-2022-prod.web.app/) -
  	- Collaborated with a medical practitioner client to develop and enhance React-based front-end web applications, aligning closely with client requirements.
   	- Facilitated bug triage and resolution, improving UI design within an agile development environment of 5 members.
   	- Conducted root-cause analysis and diagnosis to address production issues using GitHub, ensuring minimal disruption.
