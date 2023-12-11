@@ -30,31 +30,32 @@ Here are some ideas to get you started:
 	- This Django-based project with MySQL database is hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, 
        enabling rapid and reliable deployments while ensuring high-quality code delivery.
 	- It's a Multipage comprehensive website where users can adopt a dog or report any dog, schedule meetups, and see a variety of dog breeds.
- </br>
-   <img src="https://cdn.sanity.io/images/rx9dswxv/production/e1207d76220b5a2a80a1d901750a204bbda2dbdb-2207x1148.png" width=70% >
- - [JCapture](https://photo-sharing.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-))-
- 	- This page might load in some more time due to usage of free Azure app service plan (Node.js + MongoDB) for the backend. 
- 	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
-  	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
+ 	- A personal introduction that tells my story, my passion, my goals, and my skills, along with some examples of my work.
+    </br>
+   <img src="https://cdn.sanity.io/images/rx9dswxv/production/e1207d76220b5a2a80a1d901750a204bbda2dbdb-2207x1148.png" width=70% > 
+ - [JCapture](https://photo-sharing.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-)) -
+ 	- This page might load in some more time due to usage of free Azure app service plan (Node.js + MongoDB) for the backend.
+  	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
+   	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
    	- This project is also hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, enabling rapid and reliable deployments while ensuring high-quality code delivery.
     </br>
    <img src="https://cdn.sanity.io/images/rx9dswxv/production/c510488aecfc64ed3c6db1e76d8cc85662b3aaad-1851x1195.png" width=70% >
 - [ICanbewell](https://canbewell-2022-prod.web.app/) -
- 	- Collaborated with a medical practitioner client to develop and enhance React-based front-end web applications, aligning closely with client requirements.
-  	- Facilitated bug triage and resolution, improving UI design within an agile development environment of 5 members.
+	- Collaborated with a medical practitioner client to develop and enhance React-based front-end web applications, aligning closely with client requirements.
+ 	- Facilitated bug triage and resolution, improving UI design within an agile development environment of 5 members.
   	- Conducted root-cause analysis and diagnosis to address production issues using GitHub, ensuring minimal disruption.
-  	- Spearheaded test driven development, optimizing testing processes with the Cypress framework for test automation with coverage of 80%.
- </br>
-<img src="icanbewell.gif" width=70% >
+  	- Spearheaded test driven development, optimizing testing processes with the Cypress framework for test automation with coverage of 80%.delivery.
+    </br>
+   <img src="icanbewell.gif" width=70% > 
 - [Virtulab Landing Page](https://virtulab-jk.netlify.app/home) ([Github Code](https://github.com/jaikumarkaushil/virtulab-webpage-demo)) -
 	- Developed and deployed a single-page responsive, user-friendly website.
  	- Implemented robot animation in the carousel banner and well-structured UI sections, resulting in a visually appealing website that captures the attention of visitors.
- </br>
-<img src="https://cdn.sanity.io/images/rx9dswxv/production/0f3f4c191717b51f308aaa6a236b33b744faa4e2-2180x1123.png" width=70% >
+    </br>
+   <img src="https://cdn.sanity.io/images/rx9dswxv/production/0f3f4c191717b51f308aaa6a236b33b744faa4e2-2180x1123.png" width=70% > 
 - [Prarukh (A multicuisine restaurant)](https://prarukh-jai.netlify.app/home) ([Github Code](https://github.com/jaikumarkaushil/React-Restaurant-Application---Prarukh))
   	- The idea of this website is to offer features for promoting the restaurant through an online platform.
    	- It allows the users to add comments to a particular dish from the menu, give feedback and reserve a table or order food online using the forms.
-    	- It has additional features like form validations, animations and dish filtering based on trending, popular dishes, different cuisines and categories for a better user experience.
+   	- It has additional features like form validations, animations and dish filtering based on trending, popular dishes, different cuisines and categories for a better user experience.
      </br>
     <img src="https://cdn.sanity.io/images/rx9dswxv/production/0028da02774c640a14d6849ce97e5c8c0c623626-2185x1172.png" width=70% >
  
