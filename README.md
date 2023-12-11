@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   	- Spearheaded test driven development, optimizing testing processes with the Cypress framework for test automation with coverage of 80%.delivery.
     </br>
    <img src="icanbewell.gif" width=70% > 
-- [Virtulab Landing Page](https://virtulab-jk.netlify.app/home) ([Github Code](https://github.com/jaikumarkaushil/virtulab-webpage-demo)) -
+- [Virtulab Landing Page](https://virtulab-jk.netlify.app) ([Github Code](https://github.com/jaikumarkaushil/virtulab-webpage-demo)) -
 	- Developed and deployed a single-page responsive, user-friendly website.
  	- Implemented robot animation in the carousel banner and well-structured UI sections, resulting in a visually appealing website that captures the attention of visitors.
     </br>
