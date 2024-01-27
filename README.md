@@ -26,14 +26,14 @@ Here are some ideas to get you started:
  	- A personal introduction that tells my story, my passion, my goals, and my skills, along with some examples of my work.
     </br>
    <img src="https://github.com/jaikumarkaushil/jai-portfolio-website/blob/0e3639478ac5d22d7a1ed7b7e8a4f96fdd61c955/images/Screenshot%202023-08-22%20103446.png" width=70% >
-- [Dog Lovers Website](https://dogs-community-jai.azurewebsites.net) ([Github Code](https://github.com/jaikumarkaushil/-dog_community_project)) -
+- [Dog Lovers Website](https://dogs-community-jk.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/Dog_Community)) -
 	- This Django-based project with MySQL database is hosted on Azure App Service and benefits from an automated CI/CD pipeline using Azure DevOps, 
        enabling rapid and reliable deployments while ensuring high-quality code delivery.
 	- It's a Multipage comprehensive website where users can adopt a dog or report any dog, schedule meetups, and see a variety of dog breeds.
  	- A personal introduction that tells my story, my passion, my goals, and my skills, along with some examples of my work.
     </br>
    <img src="https://cdn.sanity.io/images/rx9dswxv/production/e1207d76220b5a2a80a1d901750a204bbda2dbdb-2207x1148.png" width=70% > 
- - [JCapture](https://photo-sharing.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-)) -
+ - [JCapture](https://jcapture.azurewebsites.net/) ([Github Code](https://github.com/jaikumarkaushil/JCapture-Frontend-and-Backend-)) -
  	- This page might load in some more time due to usage of free Azure app service plan (Node.js + MongoDB) for the backend.
   	- I have integrated an existing boilerplate frontend and backend GitHub code into my project as a foundation, which provided valuable groundwork and functionality. However, I have extensively customized and built upon it to align with my project's unique requirements, resulting in a significantly evolved and tailored solution that addresses specific needs and objectives.
    	- Developed a responsive website with 5 features similar to Instagram, including the ability for users to upload posts and images, like and comment on posts, and follow users.
