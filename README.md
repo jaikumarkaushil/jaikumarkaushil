@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Github Projects and Links </b>
-- [Personal Portfolio](https://jai-kaushil.tech/)  ([Github Code](https://github.com/jaikumarkaushil/jai-portfolio-website)) -
+- [Personal Portfolio](https://jai-kaushil.netlify.app/)  ([Github Code](https://github.com/jaikumarkaushil/jai-portfolio-website)) -
 	- A comprehensive portfolio that showcases my work experience, projects, and achievements in various domains and technologies.
  	- A personal introduction that tells my story, my passion, my goals, and my skills, along with some examples of my work.
     </br>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - Built Analytics dashboard in Looker studio from BigQuery streamed data coming from Firebase Events Analytics.
 - Led re-architecture of key platforms (CMS), reducing integration and operation time to just an hour.
 - Currently pursuing my master's at [University of Ottawa](https://www.uottawa.ca/en) in [Systems Science and Engineering](https://catalogue.uottawa.ca/en/graduate/master-systems-science-engineering/)
-- Personal Portfolio website [link](https://jai-kaushil.tech)
+- Personal Portfolio website [link]((https://jai-kaushil.netlify.app/))
 - I’m currently open for a new job opportunity in the domain of software development, this is [my resume](https://docs.google.com/document/d/1X6jyaIFz-AvcNfWAI8HdSP9zio-wYpPxs-JsUx780co/edit?usp=sharing)
 
 <br>
